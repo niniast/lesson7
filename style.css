@@ -14,7 +14,7 @@ img{
     width: 100%;
 }
 .container {
-	max-width: 1640px;
+	max-width: 500px;
 	margin: 0 auto;
 	padding: 0 8px;
 	width: 100%;
@@ -26,4 +26,14 @@ nav li{
 }
 .article1{
     background-color: blue;
+}
+p{
+    display: inline-block;
+}
+li{
+    display: inline-block;
+    background-color: brown;
+}
+header{
+    background-color: aquamarine;
 }
